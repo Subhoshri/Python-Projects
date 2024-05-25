@@ -1,10 +1,11 @@
 # Python Projects Repository
-Welcome to this Python Projects Repository! Here you'll find a collection of diverse Python projects I have made, while making use of Python's creative libraries.
+Welcome to this Python Projects Repository! Here you'll find a collection of diverse Python projects, while making use of Python's creative libraries.
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project List](#project-list)
-3. [License](#license)
+3. [How to Contribute](#how-to-contribute)
+4. [License](#license)
 
 ## Introduction
 This repository serves as a hub for Python enthusiasts to explore various projects. Whether you're a seasoned developer or just starting with Python, there's something here for everyone.
@@ -21,6 +22,16 @@ This repository serves as a hub for Python enthusiasts to explore various projec
 3. **Scientific Calculator:** 
    - Description: A scientific calculator built using Tkinter in Python, featuring a GUI with buttons for digits, basic arithmetic operations, and advanced mathematical functions. Utility buttons are also included, making this a real-world calculator for evaluating expressions.
    - Here's the link: [Scientific Calculator](https://github.com/Subhoshri/Python-Projects/blob/main/Calculator/calculator.py)
+
+## How to Contribute
+We welcome contributions from the community! If you have a Python project that you'd like to add to our repository, simply follow these steps:
+1. Fork this repository.
+2. Clone your forked repository to your local machine by this method
+   git clone https://github.com/your-username/Python-Projects.git
+3. Add your project to the `project-list` file following the existing format.
+4. Push your changes to your forked repository.
+5. Create a pull request to merge your changes into our main repository.
+6. Wait for review and approval from our team.
 
 ## License
 This repository is licensed under the [Creative Commons License](LICENSE), which means you're free to use, modify, and distribute the code as you see fit. However, we appreciate attribution to our repository if you find it helpful.
