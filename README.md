@@ -23,6 +23,10 @@ This repository serves as a hub for Python enthusiasts to explore various projec
    - Description: A scientific calculator built using Tkinter in Python, featuring a GUI with buttons for digits, basic arithmetic operations, and advanced mathematical functions. Utility buttons are also included, making this a real-world calculator for evaluating expressions.
    - Here's the link: [Scientific Calculator](https://github.com/Subhoshri/Python-Projects/blob/main/Calculator/calculator.py)
 
+4. **Password Generator:**
+   - Description: Get a computer-generated randomized password by giving the input of password length. Built in Python using Tkinter Library for GUI interface.
+   - Here's the link: [Password Generator](https://github.com/Subhoshri/Python-Projects/blob/main/Password-Generator/password.py)
+
 ## How to Contribute
 We welcome contributions from the community! If you have a Python project that you'd like to add to our repository, simply follow these steps:
 1. Fork this repository.
