@@ -26,6 +26,10 @@ This repository serves as a hub for Python enthusiasts to explore various projec
 4. **Password Generator:**
    - Description: Get a computer-generated randomized password by giving the input of password length. Built in Python using Tkinter Library for GUI interface.
    - Here's the link: [Password Generator](https://github.com/Subhoshri/Python-Projects/blob/main/Password%20Generator/password.py)
+  
+5. **Rock Paper Scissors Game:**
+   - Description: Who hasn't ever played the game of rock, paper and scissors? With this project, you can play this game with a computer and hopefully, win as well! The usage of symbols for hand gestures makes this game look more visually appealing.
+   - Here's the link: [Rock Paper Scissors Game](https://github.com/Subhoshri/Python-Projects/blob/main/Rock-Paper-Scissors/rockpaperscissors.py)
 
 ## How to Contribute
 We welcome contributions from the community! If you have a Python project that you'd like to add to our repository, simply follow these steps:
